@@ -13,11 +13,12 @@ spreadsheet file **on your computer only**.
 
 ## 1. One-time setup (Windows school laptop)
 
-1. **Install Python.** Open the **Microsoft Store**, search for **Python 3.12**
-   (or newer) and click *Get*. This usually doesn't need admin rights. If the Store
-   is blocked, ask IT to install Python from python.org.
-2. **Download this folder** to your laptop, for example to `Documents\Quiz`.
-   Keep it in a folder only you can access.
+1. Download this folder (on GitHub: **Code → Download ZIP**), then right-click
+   the ZIP and choose **Extract All** into e.g. `Documents\Quiz`.
+2. Double-click **`start-quiz-server.bat`**. If Python isn't installed, it
+   installs it for you (no admin needed), then starts the quiz.
+   If that fails, it tells you to install **Python 3.12** from the Microsoft
+   Store. Do that, then double-click the file again.
 
 ## 2. Running a quiz in class
 
